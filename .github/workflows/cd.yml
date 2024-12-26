@@ -3,7 +3,7 @@ name: New S3 Bucket Deployment
 on:
   push:
     branches:
-      - main
+      - master
 
 env:
   TF_CLOUD_ORGANIZATION: "1220-IAC"
