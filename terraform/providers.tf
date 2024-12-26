@@ -2,7 +2,7 @@ terraform {
   cloud {
     organization = "1220-IAC"
     workspaces {
-      name = "NewS3Deploy"
+      name = "RawS3Deploy"
     }
   }
 }
